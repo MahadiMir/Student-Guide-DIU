@@ -1,0 +1,29 @@
+  .head_div{
+    width: 80%;
+    height: 75px;
+    background: #203864;
+    margin: 10px auto;
+    border-radius: 5px;
+   }
+   .sub_head{
+    width: 40%;
+    height: 50px;
+    background:  #6EB141;
+    margin: 10px auto;
+    color:  #fff;
+    border-radius: 5px;
+    text-align: center;
+   }
+    .sub_footer{
+    width: 80%;
+    height: 75px;
+    background:  #6EB141;
+    margin: 10px auto;
+    color:  #203864;
+    border-radius: 5px;
+    text-align: center;
+   }
+   .card-body,.card-header{
+     background: #203864;
+     color: white;
+   }
